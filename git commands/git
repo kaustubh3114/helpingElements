@@ -1,0 +1,8 @@
+1 - addd 
+git add .
+
+2 - commit
+git commit -m "type your messange here"
+
+3- save in cloud
+git push
